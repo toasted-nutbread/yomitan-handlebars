@@ -1,3 +1,7 @@
+# Info
+
+This is a clone of https://github.com/elastic/kibana/tree/main/packages/kbn-handlebars.
+
 # @kbn/handlebars
 
 A custom version of the handlebars package which, to improve security, does not use `eval` or `new Function`. This means that templates can't be compiled into JavaScript functions in advance and hence, rendering the templates is a lot slower.

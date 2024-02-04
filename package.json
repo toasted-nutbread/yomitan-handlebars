@@ -2,5 +2,9 @@
   "name": "@kbn/handlebars",
   "version": "1.0.0",
   "private": true,
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themoeway/yomitan-handlebars.git"
+  }
 }
